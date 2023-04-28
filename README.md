@@ -2,8 +2,7 @@
 # Digital-Electronics-Dice
 - 👨‍💻  🔭 Link to the explanation & guideline : 
 
-[![Watch the video](https://img.youtube.com/vi/LbJCXZkolBs/default.jpg)]("https://www.youtube.com/watch?v=LbJCXZkolBs")
-[https://www.youtube.com/watch?v=LbJCXZkolBs](https://www.youtube.com/watch?v=LbJCXZkolBs)  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LbJCXZkolBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 <img width="50000" src="https://i.pinimg.com/originals/03/5f/43/035f43d6b86cf21023f108a6fcfa292b.png">
 
