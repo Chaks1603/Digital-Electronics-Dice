@@ -2,8 +2,6 @@
 # Digital-Electronics-Dice
 - 👨‍💻  🔭 Link to the explanation & guideline : 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LbJCXZkolBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <img width="50000" src="https://i.pinimg.com/originals/03/5f/43/035f43d6b86cf21023f108a6fcfa292b.png">
 
 ## Link to the Datasheets of IC's configuration:
@@ -16,4 +14,6 @@
 
 I have given the basic diagram where the oscillator is a controlled for checking delay, one can simply change it with respect to his or her needs!
 
-<img src="https://scontent.fccu3-1.fna.fbcdn.net/v/t1.6435-9/137621580_1398761957122948_6114353298776990459_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=yoo9yoSAatMAX_i5lY_&_nc_ht=scontent.fccu3-1.fna&oh=00_AT_-ViiRgUMMG1aEoifDKJ4KHF2tWNdM7QZB1KI3lC9O4Q&oe=63789E6A">
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LbJCXZkolBs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
