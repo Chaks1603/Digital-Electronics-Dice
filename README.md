@@ -2,7 +2,7 @@
 # Digital-Electronics-Dice
 - 👨‍💻  🔭 Link to the explanation & guideline : 
 
-[![Everything Is AWESOME](https://github.com/Chaks1603/Storage/blob/main/dice.gif)](https://youtu.be/LbJCXZkolBs "Everything Is AWESOME")
+[![Everything Is AWESOME](https://i.pinimg.com/originals/e7/3e/48/e73e481a2e9630788624882c56c6486f.gif)](https://youtu.be/LbJCXZkolBs "Everything Is AWESOME")
 
 <img width="50000" src="https://i.pinimg.com/originals/03/5f/43/035f43d6b86cf21023f108a6fcfa292b.png">
 
