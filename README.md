@@ -14,4 +14,4 @@
 
 I have given the basic diagram where the oscillator is a controlled for checking delay, one can simply change it with respect to his or her needs!
 
-[![Everything Is AWESOME](https://scontent.fccu3-1.fna.fbcdn.net/v/t1.6435-9/137621580_1398761957122948_6114353298776990459_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=a5JdkgTZKkUAX9sx7Tz&_nc_ht=scontent.fccu3-1.fna&oh=00_AfC3oegISuQTYQ-Zlo2sBM-_Zc6jEL1RYpdtMue68pfI4w&oe=6472AAEA)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Everything Is AWESOME](https://scontent.fccu3-1.fna.fbcdn.net/v/t1.6435-9/137621580_1398761957122948_6114353298776990459_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=a5JdkgTZKkUAX9sx7Tz&_nc_ht=scontent.fccu3-1.fna&oh=00_AfC3oegISuQTYQ-Zlo2sBM-_Zc6jEL1RYpdtMue68pfI4w&oe=6472AAEA)](https://youtu.be/LbJCXZkolBs "Everything Is AWESOME")
