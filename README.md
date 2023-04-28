@@ -5,7 +5,7 @@
 <img width="50000" src="https://i.pinimg.com/originals/03/5f/43/035f43d6b86cf21023f108a6fcfa292b.png">
 
 [![Everything Is AWESOME](https://scontent.fccu3-1.fna.fbcdn.net/v/t1.6435-9/137621580_1398761957122948_6114353298776990459_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=a5JdkgTZKkUAX9sx7Tz&_nc_ht=scontent.fccu3-1.fna&oh=00_AfC3oegISuQTYQ-Zlo2sBM-_Zc6jEL1RYpdtMue68pfI4w&oe=6472AAEA)](https://youtu.be/LbJCXZkolBs "Everything Is AWESOME")
-
+[![](https://github.com/Chaks1603/Storage/blob/main/dice.gif)](https://youtu.be/LbJCXZkolBs)
 ## Link to the Datasheets of IC's configuration:
 - IC 555 timer : [https://www.st.com/resource/en/datasheet/cd00000479.pdf](https://www.st.com/resource/en/datasheet/cd00000479.pdf)
 - IC 4017 decoder : [https://www.st.com/resource/ja/datasheet/CD00000366.pdf](https://www.st.com/resource/ja/datasheet/CD00000366.pdf)
