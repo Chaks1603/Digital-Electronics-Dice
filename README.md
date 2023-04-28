@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/7f/6a/05/7f6a05a40d8f634bb3d247d8a66cc711.jpg)](https://Chaks1603.io)
 # Digital-Electronics-Dice
 - 👨‍💻  🔭 Link to the explanation & guideline : 
 
