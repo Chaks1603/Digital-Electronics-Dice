@@ -2,8 +2,11 @@
 # Digital-Electronics-Dice
 - 👨‍💻  🔭 Link to the explanation & guideline : 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LbJCXZkolBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
-
+<div style="position:relative;height:0;padding-bottom:56.25%">
+  <iframe src="https://www.youtube.com/embed/LbJCXZkolBs"
+  style="position:absolute;width:100%;height:100%;left:0" frameborder="0"
+  allowfullscreen></iframe>
+</div>
 <img width="50000" src="https://i.pinimg.com/originals/03/5f/43/035f43d6b86cf21023f108a6fcfa292b.png">
 
 ## Link to the Datasheets of IC's configuration:
