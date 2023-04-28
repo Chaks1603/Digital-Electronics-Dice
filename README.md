@@ -14,4 +14,4 @@
 
 I have given the basic diagram where the oscillator is a controlled for checking delay, one can simply change it with respect to his or her needs!
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/LbJCXZkolBs?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"></iframe></div>
+<div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="//cdn.iframe.ly/api/iframe?click_to_play=1&playerjs=1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLbJCXZkolBs&key=bad4ed67f921964de6549d8d6a34158f" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="autoplay *; accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;"></iframe></div></div>
