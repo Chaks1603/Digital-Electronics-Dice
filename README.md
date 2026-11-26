@@ -3,7 +3,13 @@
 
 [![Double Tap to view in YOUTUBE](https://i.pinimg.com/originals/e7/3e/48/e73e481a2e9630788624882c56c6486f.gif)](https://youtu.be/LbJCXZkolBs "Double Tap to view in YOUTUBE")
 
+- Schematic
+
 <img width="50000" src="https://i.pinimg.com/originals/03/5f/43/035f43d6b86cf21023f108a6fcfa292b.png">
+
+- PCB Layout from Gerber File
+
+<img width="50000" src="https://raw.githubusercontent.com/Chaks1603/Digital-Electronics-Dice/refs/heads/main/Dice%20PCB%20Layout.png">
 
 ## Link to the Datasheets of IC's configuration:
 - IC 555 timer : [https://www.st.com/resource/en/datasheet/cd00000479.pdf](https://www.st.com/resource/en/datasheet/cd00000479.pdf)
