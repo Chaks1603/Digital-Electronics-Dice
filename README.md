@@ -5,7 +5,7 @@
 
 - Schematic
 
-<img width="50000" src="https://i.pinimg.com/originals/03/5f/43/035f43d6b86cf21023f108a6fcfa292b.png">
+<img width="50000" src="[https://i.pinimg.com/originals/03/5f/43/035f43d6b86cf21023f108a6fcfa292b.png](https://raw.githubusercontent.com/Chaks1603/Digital-Electronics-Dice/2771524a90d4a99c601524a547f1760fbc2d0251/Schematic_Digitl-Dice.svg)">
 
 - PCB Layout from Gerber File
 
